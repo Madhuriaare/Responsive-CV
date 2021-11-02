@@ -1,10 +1,4 @@
-@media screen and (max-width: 800px){
-	/* .container .right {
-		display: none;
-	}
-	.container .left{
-		display: block;
-	} */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,400;1,100;1,300&display=swap');
 *
 {
     margin: 0;
